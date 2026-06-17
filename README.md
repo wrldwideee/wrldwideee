@@ -16,7 +16,7 @@ Hi there 👋, I'm Salman Baihaqi<br>A passionate Informatics undergrad at Telko
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](github-repository-contribution-stat-tau.vercel.app)
+![](https://github-repository-contribution-stat-tau.vercel.app/api?username=wrldwideee&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=wrldwideee&icon=0&color=blue)](https://visitcount.itsvg.in)
